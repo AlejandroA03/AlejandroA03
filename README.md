@@ -62,7 +62,3 @@ Si compartes mis intereses o simplemente quieres decir hola, no dudes en contact
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
